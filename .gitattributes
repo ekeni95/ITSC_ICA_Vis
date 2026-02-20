@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+_2_Benchmarking filter=lfs diff=lfs merge=lfs -text
+_3_Simulatorstudy filter=lfs diff=lfs merge=lfs -text
+_1_Quantiative_customer_assesment filter=lfs diff=lfs merge=lfs -text
